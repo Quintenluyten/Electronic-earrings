@@ -1,0 +1,1 @@
+https://www.reddit.com/r/arduino/comments/cdnbjz/controlling_ws2812b_strip_using_attiny402/
